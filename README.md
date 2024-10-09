@@ -15,3 +15,5 @@ This project is a modified clone of the inDriver app which is a taxi/car booking
 - Driver accept request
 - Start and end journey
 - State management with provider
+
+# Please mention how to use it
